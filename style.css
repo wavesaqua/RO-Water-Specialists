@@ -190,7 +190,8 @@ html, body {
 
 /* Left Panel */
 .s_grid {
-  background-color:  #007FFF;
+  /*background-color:  #007FFF;*/
+  background: linear-gradient(to bottom, #99CCFF 0%, #127AC0 100%);
 }
 .s_grid h1 {
   font-size: clamp(1.2rem, 1.8vw, 2rem);
@@ -241,7 +242,8 @@ html, body {
 
 /* Right Panel 1 */
 .r_grid_1 {
-  background-color: #007FFF;
+  /*background-color: #007FFF;*/
+  background: linear-gradient(to bottom, #99CCFF 0%, #127AC0 100%);
   color: rgb(7, 7, 7);
 }
 .r_grid_1 h1 {
@@ -267,7 +269,8 @@ html, body {
 
 /* Right Panel 2 */
 .r_grid_2 {
-  background-color: #007FFF;
+  /*background-color: #007FFF;*/
+  background: linear-gradient(to bottom, #99CCFF 0%, #127AC0 100%);
   color: rgb(7, 7, 7);
 }
 .r_grid_2 h1 {
@@ -293,7 +296,8 @@ html, body {
 
 /* Right Panel 3 */
 .r_grid_3 {
-  background-color: #007FFF;
+  /*background-color: #007FFF;*/
+  background: linear-gradient(to bottom, #99CCFF 0%, #127AC0 100%);
   color: rgb(7, 7, 7);
 }
 .r_grid_3 h1 {
