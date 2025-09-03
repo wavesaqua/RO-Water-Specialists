@@ -461,6 +461,14 @@ html, body {
     display: block;
   }
 
+    .client-sectors {
+    font-size: 0.8rem;
+  }
+
+  .client-sectors li {
+    font-size: 0.8rem;
+}
+
   .footer_items {
     flex-direction: column;
     gap: 1rem;
