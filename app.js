@@ -1,4 +1,3 @@
-
 /*
 const menu = document.querySelector("#mobile-menu");
 const menuLinks = document.querySelector(".nav-part2");
@@ -31,4 +30,4 @@ hamburgerToggle.addEventListener('click', function() {
     } else {
         hamburgerToggle.className = 'ri-menu-3-fill hamburger-toggle';
     }
-  });
+});
